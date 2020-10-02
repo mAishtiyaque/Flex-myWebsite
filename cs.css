@@ -65,13 +65,6 @@ img:hover{
   z-index: 2;
 }
 
-.footer{
-  height: 40vh;   
-  background-color:#2ef1f1;
-  background-position: center;
-  position: relative;
-}
-
 .footer-txt{
   position: absolute;
   top:50%;
@@ -95,10 +88,4 @@ img:hover{
     top: 75%;
   }
 }
-.me{width: 257px;
-  margin-left: 25px;
-  align-items: center;
-}
-.me img{
-  border-radius: 50px;
-}
+
